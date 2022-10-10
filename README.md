@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ying, Cheng</h1>
-<h3 align="center">I major in computer science at NCHU.</h3>
+<h1 align="left">Hi 👋, I'm Ying, Cheng</h1>
+<h3 align="left">I major in computer science at NCHU.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyingcheng&label=Profile%20views&color=0e75b6&style=flat" alt="imyingcheng" /> </p>
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ritaaa0514@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
