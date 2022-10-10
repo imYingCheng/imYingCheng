@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Ying, Cheng</h1>
 <h3 align="left">I major in computer science at NCHU.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imyingcheng&label=Profile%20views&color=0e75b6&style=flat" alt="imyingcheng" /> </p>
-
 - 🌱 I’m into **Image recognition, Deep learning and Computer vision**
 
 - 📫 How to reach me **ritaaa0514@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imyingcheng&label=Profile%20views&color=0e75b6&style=flat" alt="imyingcheng" /> </p>
 
 <p align="left">
 </p>
@@ -15,6 +15,7 @@
 
 <h3>課程專案</h3>
 <a href="https://github.com/imYingCheng/Basketball_Scoring_Detection">智慧籃球運動網頁</a>
+<a href="https://github.com/imYingCheng/Basketball_Scoring_Detection">實作時間序列於預測臺灣在新冠肺炎疫情中的累積確診人數、死亡人數和康復人數</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imyingcheng&show_icons=true&locale=en&layout=compact" alt="imyingcheng" /></p>
 
