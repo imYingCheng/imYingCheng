@@ -39,7 +39,7 @@
   <li>
   <h4>資訊檢索</h4>
     <ul>
-    <li><a href="https://github.com/imYingCheng/QAbot">QAbot</a></li>
+    <li><a href="https://github.com/imYingCheng/QAbot">利用IR和Web Crawler實作QAbot</a></li>
     </ul>
   <h4>作業系統</h4>
     <ul>
